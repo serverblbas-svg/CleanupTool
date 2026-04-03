@@ -1,6 +1,6 @@
 @echo off
 chcp 65001 >nul
-title KAMALBLBAS CLEANUP TOOLBOX - v6.0 PRO
+title KAMALBLBAS CLEANUP TOOLBOX - v1.0 OFFICIAL
 color 0B
 
 :: Check Admin
@@ -14,7 +14,7 @@ echo #                                                    #
 echo #           KAMALBLBAS CLEANUP TOOLBOX               #
 echo #       -----------------------------------          #
 echo #          Developed by: %owner%               #
-echo #          Version: 6.0 (Pro Optimizer)       #
+echo #          Version: 1.0 (Official Release)     #
 echo #                                                    #
 echo ######################################################
 echo.
